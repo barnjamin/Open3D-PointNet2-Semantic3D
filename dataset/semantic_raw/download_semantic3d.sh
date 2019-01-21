@@ -14,6 +14,4 @@ do
 	7z x ${output_file} -y
 done
 
-mv station1_xyz_intensity_rgb.txt neugasse_station1_xyz_intensity_rgb.txt
-
 exit 0
